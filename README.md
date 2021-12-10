@@ -7,3 +7,6 @@ The firmware uses the following libraries:
 - [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
 - [ESPAsyncTCP](https://github.com/me-no-dev/AsyncTCP)
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
+
+All libraries are include with this download
+Latest working version is tested with ESP32 Board Package V1.0.6

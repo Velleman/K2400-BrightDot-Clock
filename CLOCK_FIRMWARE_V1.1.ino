@@ -6,15 +6,11 @@
  * 2018
  */
 //-------------------------------------------------------------------------------
-#include <NeoPixelBus.h>
-#include <NeoPixelAnimator.h>
+#include "clock_libs.h"
 #include <WiFi.h>
 #include <FS.h>
-#include <AsyncTCP.h>
-#include <ESPAsyncWebServer.h>
+
 #include <time.h>
-#include <ArduinoJson.h>
-#include <AsyncJson.h>
 #include <Preferences.h>
 #include <ESPmDNS.h>
 #include <WiFiUdp.h>
@@ -37,7 +33,7 @@ Preferences preferences;                          //Preferences class
 TaskHandle_t LEDtask;                             //Handle name for LEDtask pinned to core
 //-------------------------------------------------------------------------------
 const char *ssidown = "My K2400";                 //SSID for when device acts  as AP
-const char *passwordown = "K2400password";        //password for when deice acts  as AP
+const char *passwordown = "K2400PWD";        //password for when deice acts  as AP
 AsyncWebServer server(80);                        //Creating webserver instance
 //-------------------------------------------------------------------------------
 const char * udpAddress = "255.255.255.255";      //UDP broadcast for discover app
@@ -614,6 +610,7 @@ bool ValidateNTP(AsyncWebServerRequest *request){
     p = request->getParam(2);
     NTPData = p->value();
     daylightOffset_hour = NTPData.toFloat();
+    return true;
   }
   else {
     return false;

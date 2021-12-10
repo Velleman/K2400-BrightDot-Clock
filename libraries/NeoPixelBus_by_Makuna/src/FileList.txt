@@ -1,0 +1,71 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC0F-0B05
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\src
+
+03/12/2021  16:02    <DIR>          .
+03/12/2021  16:02    <DIR>          ..
+03/12/2021  16:02                 0 FileList.txt
+16/09/2019  08:21    <DIR>          internal
+20/03/2018  19:55             4.503 NeoPixelAnimator.h
+20/03/2018  19:55             4.900 NeoPixelBrightnessBus.h
+20/03/2018  19:55            10.781 NeoPixelBus.h
+               4 File(s)         20.184 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\src\internal
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+20/03/2018  19:55             4.577 DotStarAvrMethod.h
+20/03/2018  19:55             9.914 DotStarColorFeatures.h
+20/03/2018  19:55             3.623 DotStarGenericMethod.h
+20/03/2018  19:55             3.662 DotStarSpiMethod.h
+30/11/1979  00:00            14.741 Esp32_i2s.c
+30/11/1979  00:00             1.239 Esp32_i2s.h
+20/03/2018  19:55             1.947 HsbColor.cpp
+20/03/2018  19:55             4.795 HsbColor.h
+20/03/2018  19:55             2.036 HslColor.cpp
+20/03/2018  19:55             4.843 HslColor.h
+20/03/2018  19:55             1.774 HtmlColor.cpp
+20/03/2018  19:55            13.016 HtmlColor.h
+20/03/2018  19:55             7.109 HtmlColorNames.cpp
+20/03/2018  19:55             9.448 HtmlColorNameStrings.cpp
+20/03/2018  19:55             8.432 HtmlColorNameStrings.h
+20/03/2018  19:55             2.037 HtmlColorShortNames.cpp
+20/03/2018  19:55            10.147 Layouts.h
+20/03/2018  19:55            21.608 NeoArmMethod.h
+20/03/2018  19:55             6.495 NeoAvrMethod.h
+20/03/2018  19:55             8.416 NeoBitmapFile.h
+20/03/2018  19:55             4.344 NeoBuffer.h
+20/03/2018  19:55             1.680 NeoBufferContext.h
+20/03/2018  19:55             6.878 NeoBufferMethods.h
+20/03/2018  19:55            10.582 NeoColorFeatures.h
+20/03/2018  19:55             3.754 NeoDib.h
+20/03/2018  19:55             5.606 NeoEase.h
+30/11/1979  00:00             6.194 NeoEsp32I2sMethod.h
+20/03/2018  19:55            13.253 NeoEsp8266DmaMethod.h
+20/03/2018  19:55             7.166 NeoEsp8266UartMethod.cpp
+20/03/2018  19:55             6.662 NeoEsp8266UartMethod.h
+20/03/2018  19:55             5.357 NeoEspBitBangMethod.h
+20/03/2018  19:55             6.568 NeoEspRmtMethod.h
+20/03/2018  19:55             2.644 NeoGamma.cpp
+20/03/2018  19:55             2.266 NeoGamma.h
+20/03/2018  19:55             3.173 NeoHueBlend.h
+20/03/2018  19:55             5.547 NeoMosaic.h
+20/03/2018  19:55             4.575 NeoPixelAnimator.cpp
+20/03/2018  19:55            30.202 NeoPixelAvr.c
+20/03/2018  19:55             4.768 NeoPixelEsp.c
+20/03/2018  19:55             3.531 NeoPixelRmtMethod.cpp
+20/03/2018  19:55             2.693 NeoRingTopology.h
+20/03/2018  19:55             4.763 NeoSpriteSheet.h
+20/03/2018  19:55             4.562 NeoTiles.h
+20/03/2018  19:55             2.413 NeoTopology.h
+20/03/2018  19:55             4.960 RgbColor.cpp
+20/03/2018  19:55             6.492 RgbColor.h
+20/03/2018  19:55             3.833 RgbwColor.cpp
+20/03/2018  19:55             7.658 RgbwColor.h
+              48 File(s)        311.983 bytes
+
+     Total Files Listed:
+              52 File(s)        332.167 bytes
+               5 Dir(s)  21.211.258.880 bytes free

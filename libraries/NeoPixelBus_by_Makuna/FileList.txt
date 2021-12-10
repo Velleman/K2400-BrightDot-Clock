@@ -1,0 +1,307 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC0F-0B05
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna
+
+03/12/2021  16:02    <DIR>          .
+03/12/2021  16:02    <DIR>          ..
+30/11/1979  00:00             7.651 COPYING
+16/09/2019  08:21    <DIR>          examples
+16/09/2019  08:21    <DIR>          extras
+03/12/2021  16:02                 0 FileList.txt
+30/11/1979  00:00             6.175 keywords.txt
+30/11/1979  00:00               823 library.json
+30/11/1979  00:00               790 library.properties
+30/11/1979  00:00             1.541 ReadMe.md
+03/12/2021  15:48    <DIR>          src
+               6 File(s)         16.980 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+16/09/2019  08:21    <DIR>          animations
+16/09/2019  08:21    <DIR>          bitmaps
+16/09/2019  08:21    <DIR>          DotStarTest
+16/09/2019  08:21    <DIR>          NeoPixelBrightness
+16/09/2019  08:21    <DIR>          NeoPixelGamma
+16/09/2019  08:21    <DIR>          NeoPixelTest
+16/09/2019  08:21    <DIR>          topologies
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+16/09/2019  08:21    <DIR>          NeoPixelAnimation
+16/09/2019  08:21    <DIR>          NeoPixelCylon
+16/09/2019  08:21    <DIR>          NeoPixelFunFadeInOut
+16/09/2019  08:21    <DIR>          NeoPixelFunLoop
+16/09/2019  08:21    <DIR>          NeoPixelFunRandomChange
+16/09/2019  08:21    <DIR>          NeoPixelRotateLoop
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelAnimation
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             8.438 NeoPixelAnimation.ino
+               1 File(s)          8.438 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelCylon
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.399 NeoPixelCylon.ino
+               1 File(s)          3.399 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelFunFadeInOut
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.898 NeoPixelFunFadeInOut.ino
+               1 File(s)          3.898 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelFunLoop
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             4.853 NeoPixelFunLoop.ino
+               1 File(s)          4.853 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelFunRandomChange
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.319 NeoPixelFunRandomChange.ino
+               1 File(s)          3.319 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\animations\NeoPixelRotateLoop
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.850 NeoPixelRotateLoop.ino
+               1 File(s)          2.850 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\bitmaps
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+16/09/2019  08:21    <DIR>          NeoPixelBitmap
+16/09/2019  08:21    <DIR>          NeoPixelBufferCylon
+16/09/2019  08:21    <DIR>          NeoPixelBufferShader
+16/09/2019  08:21    <DIR>          NeoPixelDibTest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\bitmaps\NeoPixelBitmap
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.108 NeoPixelBitmap.ino
+30/11/1979  00:00            62.262 Strings.bmp
+30/11/1979  00:00            82.998 StringsW.bmp
+               3 File(s)        148.368 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\bitmaps\NeoPixelBufferCylon
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.953 Cylon.pdn
+30/11/1979  00:00             6.399 CylonGrb.h
+30/11/1979  00:00             8.321 CylonGrbw.h
+30/11/1979  00:00             2.421 NeoPixelBufferCylon.ino
+               4 File(s)         21.094 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\bitmaps\NeoPixelBufferShader
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             4.515 NeoPixelBufferShader.ino
+               1 File(s)          4.515 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\bitmaps\NeoPixelDibTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             4.254 NeoPixelDibTest.ino
+               1 File(s)          4.254 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\DotStarTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.644 DotStarTest.ino
+               1 File(s)          2.644 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\NeoPixelBrightness
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.156 NeoPixelBrightness.ino
+               1 File(s)          2.156 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\NeoPixelGamma
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.765 NeoPixelGamma.ino
+               1 File(s)          2.765 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\NeoPixelTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             4.513 NeoPixelTest.ino
+               1 File(s)          4.513 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+16/09/2019  08:21    <DIR>          NeoPixelMosaicDump
+16/09/2019  08:21    <DIR>          NeoPixelMosaicTest
+16/09/2019  08:21    <DIR>          NeoPixelRingTopologyTest
+16/09/2019  08:21    <DIR>          NeoPixelTilesDump
+16/09/2019  08:21    <DIR>          NeoPixelTilesTest
+16/09/2019  08:21    <DIR>          NeoPixelTopologyDump
+16/09/2019  08:21    <DIR>          NeoPixelTopologyTest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelMosaicDump
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.804 NeoPixelMosaicDump.ino
+               1 File(s)          2.804 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelMosaicTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.892 NeoPixelMosaicTest.ino
+               1 File(s)          2.892 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelRingTopologyTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.895 NeoPixelRingTopologyTest.ino
+               1 File(s)          2.895 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelTilesDump
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.979 NeoPixelTilesDump.ino
+               1 File(s)          2.979 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelTilesTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             3.244 NeoPixelTilesTest.ino
+               1 File(s)          3.244 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelTopologyDump
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.098 NeoPixelTopologyDump.ino
+               1 File(s)          2.098 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\examples\topologies\NeoPixelTopologyTest
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00             2.983 NeoPixelTopologyTest.ino
+               1 File(s)          2.983 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\extras
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+16/09/2019  08:21    <DIR>          curves
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\extras\curves
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+30/11/1979  00:00            44.762 circular.png
+30/11/1979  00:00            42.669 cubic.png
+30/11/1979  00:00            37.163 different.png
+30/11/1979  00:00            43.532 exponential.png
+30/11/1979  00:00            22.467 gamma.png
+30/11/1979  00:00            42.590 pronounced.png
+30/11/1979  00:00            42.622 quadratic.png
+30/11/1979  00:00            42.362 quintic.png
+30/11/1979  00:00            40.710 sinusoidal.png
+               9 File(s)        358.877 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\src
+
+03/12/2021  15:48    <DIR>          .
+03/12/2021  15:48    <DIR>          ..
+16/09/2019  08:21    <DIR>          internal
+20/03/2018  19:55             4.503 NeoPixelAnimator.h
+20/03/2018  19:55             4.900 NeoPixelBrightnessBus.h
+20/03/2018  19:55            10.781 NeoPixelBus.h
+               3 File(s)         20.184 bytes
+
+ Directory of C:\Users\bn\OneDrive - Velleman\Documenten\K2400\CLOCK_FIRMWARE_V1.1\libraries\NeoPixelBus_by_Makuna\src\internal
+
+16/09/2019  08:21    <DIR>          .
+16/09/2019  08:21    <DIR>          ..
+20/03/2018  19:55             4.577 DotStarAvrMethod.h
+20/03/2018  19:55             9.914 DotStarColorFeatures.h
+20/03/2018  19:55             3.623 DotStarGenericMethod.h
+20/03/2018  19:55             3.662 DotStarSpiMethod.h
+30/11/1979  00:00            14.741 Esp32_i2s.c
+30/11/1979  00:00             1.239 Esp32_i2s.h
+20/03/2018  19:55             1.947 HsbColor.cpp
+20/03/2018  19:55             4.795 HsbColor.h
+20/03/2018  19:55             2.036 HslColor.cpp
+20/03/2018  19:55             4.843 HslColor.h
+20/03/2018  19:55             1.774 HtmlColor.cpp
+20/03/2018  19:55            13.016 HtmlColor.h
+20/03/2018  19:55             7.109 HtmlColorNames.cpp
+20/03/2018  19:55             9.448 HtmlColorNameStrings.cpp
+20/03/2018  19:55             8.432 HtmlColorNameStrings.h
+20/03/2018  19:55             2.037 HtmlColorShortNames.cpp
+20/03/2018  19:55            10.147 Layouts.h
+20/03/2018  19:55            21.608 NeoArmMethod.h
+20/03/2018  19:55             6.495 NeoAvrMethod.h
+20/03/2018  19:55             8.416 NeoBitmapFile.h
+20/03/2018  19:55             4.344 NeoBuffer.h
+20/03/2018  19:55             1.680 NeoBufferContext.h
+20/03/2018  19:55             6.878 NeoBufferMethods.h
+20/03/2018  19:55            10.582 NeoColorFeatures.h
+20/03/2018  19:55             3.754 NeoDib.h
+20/03/2018  19:55             5.606 NeoEase.h
+30/11/1979  00:00             6.194 NeoEsp32I2sMethod.h
+20/03/2018  19:55            13.253 NeoEsp8266DmaMethod.h
+20/03/2018  19:55             7.166 NeoEsp8266UartMethod.cpp
+20/03/2018  19:55             6.662 NeoEsp8266UartMethod.h
+20/03/2018  19:55             5.357 NeoEspBitBangMethod.h
+20/03/2018  19:55             6.568 NeoEspRmtMethod.h
+20/03/2018  19:55             2.644 NeoGamma.cpp
+20/03/2018  19:55             2.266 NeoGamma.h
+20/03/2018  19:55             3.173 NeoHueBlend.h
+20/03/2018  19:55             5.547 NeoMosaic.h
+20/03/2018  19:55             4.575 NeoPixelAnimator.cpp
+20/03/2018  19:55            30.202 NeoPixelAvr.c
+20/03/2018  19:55             4.768 NeoPixelEsp.c
+20/03/2018  19:55             3.531 NeoPixelRmtMethod.cpp
+20/03/2018  19:55             2.693 NeoRingTopology.h
+20/03/2018  19:55             4.763 NeoSpriteSheet.h
+20/03/2018  19:55             4.562 NeoTiles.h
+20/03/2018  19:55             2.413 NeoTopology.h
+20/03/2018  19:55             4.960 RgbColor.cpp
+20/03/2018  19:55             6.492 RgbColor.h
+20/03/2018  19:55             3.833 RgbwColor.cpp
+20/03/2018  19:55             7.658 RgbwColor.h
+              48 File(s)        311.983 bytes
+
+     Total Files Listed:
+              92 File(s)        944.985 bytes
+              89 Dir(s)  21.211.840.512 bytes free
