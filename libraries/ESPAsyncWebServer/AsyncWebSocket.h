@@ -23,11 +23,11 @@
 
 #include <Arduino.h>
 #ifdef ESP32
-#include <AsyncTCP.h>
+#include "../AsyncTCP/AsyncTCP.h"
 #else
 #include <ESPAsyncTCP.h>
 #endif
-#include <ESPAsyncWebServer.h>
+#include "ESPAsyncWebServer.h"
 
 class AsyncWebSocket;
 class AsyncWebSocketResponse;

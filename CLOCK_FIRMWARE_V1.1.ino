@@ -16,7 +16,7 @@
 #include <WiFiUdp.h>
 //-------------------------------------------------------------------------------
 #define RECONINTERVAL 10
-//#define DEBUG                                     //uncomment to enable debug messages over serial
+#define DEBUG                                     //uncomment to enable debug messages over serial
 
 #ifdef DEBUG
  #define DEBUG_PRINT(x)     Serial.print (x)

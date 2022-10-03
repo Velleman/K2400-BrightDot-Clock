@@ -48,10 +48,13 @@
 #include "libraries/NeoPixelBus_by_Makuna/src/internal/RgbwColor.h"
 
 
-#include "libraries/AsyncTCP/src/AsyncTCP.h"
+#include "libraries/AsyncTCP/AsyncTCP.h"
+#include "libraries/AsyncTCP/AsyncTCP.cpp"
 
 #include "libraries/ArduinoJson/src/ArduinoJson.h"
-#include "libraries/ESPAsyncWebServer/src/ESPAsyncWebServer.h"
-#include "libraries/ESPAsyncWebServer/src/AsyncJson.h"
-
+#include "libraries/ESPAsyncWebServer/ESPAsyncWebServer.h"
+#include "libraries/ESPAsyncWebServer/AsyncJson.h"
+#include "libraries/ESPAsyncWebServer/WebRequest.cpp"
+#include "libraries/ESPAsyncWebServer/WebServer.cpp"
+#include "libraries/ESPAsyncWebServer/WebResponses.cpp"
 #endif

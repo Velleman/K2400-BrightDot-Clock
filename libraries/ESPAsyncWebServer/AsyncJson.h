@@ -20,7 +20,7 @@
 */
 #ifndef ASYNC_JSON_H_
 #define ASYNC_JSON_H_
-#include "../../ArduinoJson/src/ArduinoJson.h"
+#include "../ArduinoJson/src/ArduinoJson.h"
 
 /*
  * Json Response
